@@ -1,0 +1,9 @@
+Package: com.sunshinesong.recorder-bubble
+Name: recorder-bubble
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
+Maintainer: sunshinesong
+Author: sunshinesong
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)
